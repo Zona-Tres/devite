@@ -1,4 +1,4 @@
-![logo](https://github.com/Zona-Tres/devite/assets/54418646/c45f7d36-47fd-4744-93ea-88d3b9d05dd1)
+![logo con slogan color](https://github.com/Zona-Tres/devite/assets/54418646/e2507700-1535-4647-ba1a-c3998d11226b)
 
 # The future of education is descentralized
 

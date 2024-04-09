@@ -1,7 +1,7 @@
 export default function Faqs() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 mt-20">
         <div className="pb-12 md:pb-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto pb-10">

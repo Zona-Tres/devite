@@ -14,7 +14,7 @@ export default function Features02() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 font-cabinet-grotesk">Everything you need to find, hire, and manage talents</h2>
+            <h2 className="h2 font-cabinet-grotesk">Educational needs for everyone covered.</h2>
           </div>
 
           <div>
@@ -25,26 +25,15 @@ export default function Features02() {
                   className={`btn-sm m-1.5 h-8 shadow ${category === '1' ? 'bg-blue-500 text-white' : 'bg-white text-gray-900 hover:bg-blue-50'}`}
                   onClick={() => setCategory('1')}
                 >
-                  Flexible Features
+                  User
                 </button>
                 <button
                   className={`btn-sm m-1.5 h-8 shadow ${category === '2' ? 'bg-blue-500 text-white' : 'bg-white text-gray-900 hover:bg-blue-50'}`}
                   onClick={() => setCategory('2')}
                 >
-                  Flexible Features
+                  DAU
                 </button>
-                <button
-                  className={`btn-sm m-1.5 h-8 shadow ${category === '3' ? 'bg-blue-500 text-white' : 'bg-white text-gray-900 hover:bg-blue-50'}`}
-                  onClick={() => setCategory('3')}
-                >
-                  Flexible Features
-                </button>
-                <button
-                  className={`btn-sm m-1.5 h-8 shadow ${category === '4' ? 'bg-blue-500 text-white' : 'bg-white text-gray-900 hover:bg-blue-50'}`}
-                  onClick={() => setCategory('4')}
-                >
-                  Flexible Features
-                </button>
+                
               </div>
             </div>
 
@@ -54,10 +43,9 @@ export default function Features02() {
               <div className="md:w-7/12 lg:w-1/2 order-1 md:order-none" data-aos="fade-up">
                 {/* Content #1 */}
                 <div className={`${category !== '1' && 'hidden'}`}>
-                  <h3 className="h3 font-cabinet-grotesk mb-3">The member-owned tech society.</h3>
+                  <h3 className="h3 font-cabinet-grotesk mb-3">As a user I want to...</h3>
                   <p className="text-lg text-gray-500 mb-8">
-                    Work is is changing faster than at any other time in history. This rapid change requires a new hiring model. A model that is fair,
-                    inclusive, and empowering. That's why we built this.
+                    Develop yourself with our multiple functionalities. Gain voting power so that you can decide the future of a course or of the entire platform.
                   </p>
                   <ul className="inline-flex flex-col space-y-6">
                     <li className="flex items-start">
@@ -65,9 +53,9 @@ export default function Features02() {
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
                       <div>
-                        <div className="font-cabinet-grotesk font-bold text-lg mb-1">Ensure Quick Turnarounds</div>
+                        <div className="font-cabinet-grotesk font-bold text-lg mb-1">Enroll in a DAU course</div>
                         <div className="text-gray-500">
-                          Work is is changing faster than at any other time in history. This rapid change requires a new hiring model.
+                          Enroll in any of the courses from enterprises around the world.
                         </div>
                       </div>
                     </li>
@@ -76,9 +64,9 @@ export default function Features02() {
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
                       <div>
-                        <div className="font-cabinet-grotesk font-bold text-lg mb-1">Ensure Quick Turnarounds</div>
+                        <div className="font-cabinet-grotesk font-bold text-lg mb-1">A NFT certificate to aval my skills</div>
                         <div className="text-gray-500">
-                          Work is is changing faster than at any other time in history. This rapid change requires a new hiring model.
+                          Receive a certificate in the form of an NFT to show the world your knowledge.
                         </div>
                       </div>
                     </li>
@@ -87,9 +75,9 @@ export default function Features02() {
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
                       <div>
-                        <div className="font-cabinet-grotesk font-bold text-lg mb-1">Ensure Quick Turnarounds</div>
+                        <div className="font-cabinet-grotesk font-bold text-lg mb-1">Have a profile to show all my skills and taken courses</div>
                         <div className="text-gray-500">
-                          Work is is changing faster than at any other time in history. This rapid change requires a new hiring model.
+                          Share your profile with anyone you want and show off your work! 
                         </div>
                       </div>
                     </li>

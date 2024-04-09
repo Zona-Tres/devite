@@ -150,8 +150,8 @@ export default function Features01() {
               data-aos="fade-up"
             >
               <Image className="mb-3" src={Icon01} alt="Icon 01" />
-              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">Reward Performers</h3>
-              <div className="text-white text-opacity-80">No more endless task or wasted budget. With us, you and your team are taken care of.</div>
+              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">Transparent government</h3>
+              <div className="text-white text-opacity-80">DAO’s governance stops corruption and bureaucracy.</div>
             </div>
 
             {/* #2 */}
@@ -161,8 +161,8 @@ export default function Features01() {
               data-aos-delay="100"
             >
               <Image className="mb-3" src={Icon02} alt="Icon 02" />
-              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">Reward Performers</h3>
-              <div className="text-white text-opacity-80">No more endless task or wasted budget. With us, you and your team are taken care of.</div>
+              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">Community-Driven Updates</h3>
+              <div className="text-white text-opacity-80">Updating courses depends on the community, not on a centralized platform.</div>
             </div>
 
             {/* #3 */}
@@ -172,8 +172,8 @@ export default function Features01() {
               data-aos-delay="200"
             >
               <Image className="mb-3" src={Icon03} alt="Icon 03" />
-              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">Reward Performers</h3>
-              <div className="text-white text-opacity-80">No more endless task or wasted budget. With us, you and your team are taken care of.</div>
+              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">Community Participation</h3>
+              <div className="text-white text-opacity-80">Anyone can have the possibility to register in the governance DAO and participate in the voting un DAU proposals.</div>
             </div>
 
             {/* #4 */}
@@ -183,8 +183,8 @@ export default function Features01() {
               data-aos-delay="300"
             >
               <Image className="mb-3" src={Icon04} alt="Icon 04" />
-              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">Reward Performers</h3>
-              <div className="text-white text-opacity-80">No more endless task or wasted budget. With us, you and your team are taken care of.</div>
+              <h3 className="font-cabinet-grotesk font-bold text-lg text-white">DAUs strive for continuous improvement</h3>
+              <div className="text-white text-opacity-80">Community governance push DAUs to stay updated.</div>
             </div>
           </div>
         </div>
