@@ -20,7 +20,7 @@ export default function Cta() {
               Start your descentralized journey today!
             </h2>
             <div data-aos="fade-up" data-aos-delay="100">
-              <Link className="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" href="/schedule-call">
+              <Link className="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" href="https://app.realms.today/dao/GGcincSgP4PU7vehGY2PQGfdKnxJqfsZm57RFPavszDa" passHref={true}>
                 Start
                 <span className="tracking-normal text-blue-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-2">
                   <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="16" height="8">

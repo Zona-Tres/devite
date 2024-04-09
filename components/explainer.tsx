@@ -79,7 +79,7 @@ export default function Explainer() {
 
           {/* CTA */}
           <div className="text-center">
-            <Link className="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" href="#0">
+            <Link className="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" href="https://app.realms.today/dao/GGcincSgP4PU7vehGY2PQGfdKnxJqfsZm57RFPavszDa" passHref={true}>
             Start your journey
               <span className="tracking-normal text-blue-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-2">
                 <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="16" height="8">
