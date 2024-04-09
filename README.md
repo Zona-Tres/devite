@@ -1,38 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![logo](https://github.com/Zona-Tres/devite/assets/54418646/c45f7d36-47fd-4744-93ea-88d3b9d05dd1)
 
-## Getting Started
+# The future of education is descentralized
 
-First, run the development server:
+Create your own Decentralized Autonomous University and make a change in how people learn around the world
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![Screenshot 2024-04-08 235432](https://github.com/Zona-Tres/devite/assets/54418646/f6e86415-b0f3-4654-86a7-e209e8aeb3b7)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+An open educational platform that brings together the best talent forming Decentralized Autonomous Universities (DAUs)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Connecting students to jobs using their blockchain-registered skills.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+![Screenshot 2024-04-08 235751](https://github.com/Zona-Tres/devite/assets/54418646/99ef691d-4f77-4591-b09f-e91aea852512)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## What will the user do?
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### As a user I want to...
 
-## Learn More
+* Enroll in a DAU course.
+* Login with a Solana Wallet or Google account.
+* A NFT certificate to aval my skills.
+* Have a profile to show all my skills and taken courses.
+* Enroll in a in-app event like hackathons.
 
-To learn more about Next.js, take a look at the following resources:
+### As a DAU I want to...
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* Enroll new teachers.
+* Create courses
+* Receive a monthly payment for enrolled students
+* See the analytics of my courses
+* Get my own landing page to invite student to subscribe into my DAU

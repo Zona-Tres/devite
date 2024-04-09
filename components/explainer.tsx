@@ -44,8 +44,8 @@ export default function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   1
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">High quality courses</h3>
+                <div className="text-gray-500">Access up-to-date courses taught by the most qualified teachers.</div>
               </div>
 
               {/* #2 */}
@@ -53,8 +53,8 @@ export default function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   2
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">NFT certificates</h3>
+                <div className="text-gray-500">On chain certificates to aval skills.</div>
               </div>
 
               {/* #3 */}
@@ -62,8 +62,8 @@ export default function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   3
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">Opportunities to connect with jobs</h3>
+                <div className="text-gray-500">Our platform will have companies looking for your talent.</div>
               </div>
 
               {/* #4 */}
@@ -71,15 +71,15 @@ export default function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   4
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">Talent scouting events</h3>
+                <div className="text-gray-500">Participate in hackathons & bootcamps organized by companies looking for innovative teams.</div>
               </div>
             </div>
           </div>
 
           {/* CTA */}
           <div className="text-center">
-            <Link className="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" href="/schedule-call">
+            <Link className="btn inline-flex items-center text-white bg-gray-900 hover:bg-gray-800 group" href="#0">
             Start your journey
               <span className="tracking-normal text-blue-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-2">
                 <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="16" height="8">

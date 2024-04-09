@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
+    "@solana/spl-governance": "^0.3.28",
     "@solana/wallet-adapter-base": "^0.9.23",
     "@solana/wallet-adapter-base-ui": "^0.1.2",
     "@solana/wallet-adapter-react": "^0.15.35",
